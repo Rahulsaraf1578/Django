@@ -1,0 +1,7 @@
+##How to create a super user
+
+First type this command: (python manage.py createsuperuser)
+
+When we are done with this command then we will go to admin page and there we will not see any model that we have created to see that table
+we have to register it on admin page of that app.
+
